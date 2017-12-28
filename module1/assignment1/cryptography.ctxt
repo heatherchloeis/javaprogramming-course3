@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=message\ key
+comment0.target=java.lang.String\ basicEncryption(java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ testBasicEnc()
+numComments=2

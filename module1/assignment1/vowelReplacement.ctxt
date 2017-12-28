@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=phrase\ ch
+comment0.target=char\ toVowel(java.lang.String,\ char)
+comment1.params=
+comment1.target=void\ testReplaceVowel()
+comment2.params=phrase
+comment2.target=java.lang.String\ replaceVowel(java.lang.String)
+numComments=3

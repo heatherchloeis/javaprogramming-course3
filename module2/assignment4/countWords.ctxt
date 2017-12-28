@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=countWords()
+comment1.params=f
+comment1.target=void\ collectWords(java.io.File)
+comment2.params=
+comment2.target=void\ buildMap()
+comment3.params=
+comment3.target=int\ findMax()
+comment4.params=num
+comment4.target=java.util.ArrayList\ wordsInFile(int)
+comment5.params=word
+comment5.target=void\ printFiles(java.lang.String)
+comment6.params=
+comment6.target=void\ tester()
+numComments=7
